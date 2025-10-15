@@ -1,6 +1,6 @@
 # 📊 Data Analytics Portfolio
 
-A collection of data analytics projects focused on **dashboard development**, **data transformation**, and **automation workflows** — built using *Power BI*, *Google Looker*, *Excel + Power Query*, and *Python*.  
+A collection of data analytics projects focused on **dashboard development**, **data transformation**, and **automation workflows** — built using *Power BI*, *Google Looker*, *Excel + Power Query*, *SQL*, and *Python*.  
 
 Each project highlights different aspects of analytics — from data cleaning and ETL to visualization and automation.
 
